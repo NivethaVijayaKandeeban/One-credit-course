@@ -1,0 +1,15 @@
+sh: 1: cls: not found                                                                                                            
+enter the number of row=3                                                                                                        
+enter the number of column=3                                                                                                     
+enter the first matrix element=                                                                                                  
+4 5 3 2 8 5 3 6 7                                                                                                                
+enter the second matrix element=                                                                                                 
+5 9 6 5 9 5 3 6 1                                                                                                                
+Resultant matrix=                                                                                                                
+54      99      52                                                                                                               
+65      120     57                                                                                                               
+66      123     55                                                                                                               
+                                                                                                                                 
+                                                                                                                                 
+...Program finished with exit code 0                                                                                             
+Press ENTER to exit console.                                                                                                     
